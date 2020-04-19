@@ -85,11 +85,3 @@ In the test suites all tests but the first have been skipped.
 
 Once you get a test passing, you can enable the next one by removing the
 `@Ignore("Remove to run test")` annotation.
-
-## Source
-
-[https://github.com/exercism/problem-specifications/issues/757](https://github.com/exercism/problem-specifications/issues/757)
-
-## Submitting Incomplete Solutions
-It's possible to submit an incomplete solution so you can see how others have
-completed the exercise.
