@@ -70,13 +70,6 @@ steps:
 5. Return to step 1 until no tests are skipped and all tests pass!
 
 
-## Setup
-
-Go through the setup instructions for Java to install the necessary
-dependencies:
-
-[https://exercism.io/tracks/java/installation](https://exercism.io/tracks/java/installation)
-
 # Running the tests
 
 You can run all the tests for an exercise by entering the following in your
